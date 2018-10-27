@@ -1,0 +1,4 @@
+com/angel/controller/KardexController.class
+com/angel/bean/Producto.class
+com/angel/bean/kardex.class
+com/angel/service/KardexService.class
